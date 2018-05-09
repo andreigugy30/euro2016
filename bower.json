@@ -1,0 +1,22 @@
+{
+  "name": "euro2016 angular project",
+  "description": "An angular project about some teams qualified at Euro2016 and matches",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Andrei Gugeanu"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
